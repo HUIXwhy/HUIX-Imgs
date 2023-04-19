@@ -1,4 +1,4 @@
 # HUIX-Imgs
-图床
+博客图床
 
-博客:https://68756978.xyz/
+https://68756978.xyz/
